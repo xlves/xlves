@@ -1,5 +1,8 @@
-# Widget stats:
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xlves&data=followers,repositories,stars,commits&theme=nautilus)
+# Xolves
+### Know:
+- SkriptLang
+- JavaScript
+- HTML + CSS
 
-## Xolves
-- Know: SkriptLang, HTML, CSS, Js
+## Widget stats:
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xlves&data=followers,repositories,stars,commits&theme=nautilus)
