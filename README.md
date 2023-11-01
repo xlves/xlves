@@ -1,6 +1,5 @@
 # Xolves profile:
 
-## Languages:
 - SkriptLang {++++-}
 - JavaScript {+---}
 - Python {+++--}
