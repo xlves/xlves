@@ -1,8 +1,4 @@
-# Xolves
-### Know:
-- SkriptLang
-- JavaScript
-- HTML + CSS
+# Xolves profile:
 
-## Widget stats:
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xlves&data=followers,repositories,stars,commits&theme=nautilus)
+## Languages:
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,python,skriptlang)
