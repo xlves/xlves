@@ -1,6 +1,6 @@
 # Xolves profile:
 🏷 Know Languages:
 - SkriptLang {++++-}
-- JavaScript {+---}
+- JavaScript {+----}
 - Python {+++--}
 - HTML + CSS {+++--}
