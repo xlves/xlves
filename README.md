@@ -3,6 +3,6 @@ of course, I plan to improve my knowledge and immerse myself more in the field o
 - ⚛ JavaScript {+----}
 - ✡ Python {+++--}
 - ☪ HTML + CSS {+++--}
- —–  •- -•  –—
+—–  •- -•  –—
 - ✝ SkriptLang {++++-}
 - ☦ Denizen {. . .}
