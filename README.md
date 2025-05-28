@@ -3,15 +3,19 @@
 **/BASIC-PROGRAMMING**
 
 Java (35%)
+
 SkriptLang (90%)
 
 **/WEB-PROGRAMMING**
 
 HTML (70%)
+
 CSS (70%)
 
 **/INTERESTS**
 
 Разрабатывать полезные проекты с открытым исходным кодом
+
 Освоить JavaScript и фреймворки для фронтенда
+
 Углублять знания в Java и веб-разработке
