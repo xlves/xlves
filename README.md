@@ -2,7 +2,7 @@
 
 ## **/PROGRAMMING-LANGUAGES**
 
-  ## **/BASIC**
+  ### **/BASIC**
 
 ▪︎ Java (35%)
 
@@ -10,13 +10,13 @@
 
 ▪︎ SkriptLang (90%)
 
-  ## **/WEB**
+  ### **/WEB**
 
 ▪︎ HTML (70%)
 
 ▪︎ CSS (70%)
 
-  ## **/INTERESTS**
+  ### **/INTERESTS**
 
 ▪︎ Разрабатывать полезные проекты с открытым исходным кодом
 
