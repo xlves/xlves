@@ -4,6 +4,8 @@
 
 ▪︎ Java (35%)
 
+▪︎ Python (30%)
+
 ▪︎ SkriptLang (90%)
 
 ## **/WEB-PROGRAMMING**
