@@ -1,16 +1,16 @@
 Живу в России. Увлекаюсь программированием, изучаю новые языки и фреймворки
 
-**<BASIC-PROGRAMMING>**
+**/BASIC-PROGRAMMING**
 
 Java (35%)
 SkriptLang (90%)
 
-**<WEB-PROGRAMMING>**
+**/WEB-PROGRAMMING**
 
 HTML (70%)
 CSS (70%)
 
-**<INTERESTS>**
+**/INTERESTS**
 
 Разрабатывать полезные проекты с открытым исходным кодом
 Освоить JavaScript и фреймворки для фронтенда
